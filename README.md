@@ -1,2 +1,2 @@
 # TesisExoesqueleto
-Código para control de movimiento de un Exoesqueleto Robótico para muñeca.
+Este repositorio contiene el código y la interfaz gráfica (desarrollada en Python con Tkinter) para controlar un exoesqueleto de muñeca diseñado para la rehabilitación pasiva de pacientes con lesiones como el codo de tenista y el codo de golfista. El dispositivo permite movimientos programables y ajustables de flexión, extensión, y rotación radial-ulnar, proporcionando una herramienta accesible y efectiva para la recuperación de movilidad en la muñeca.
