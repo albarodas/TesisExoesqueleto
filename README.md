@@ -7,13 +7,17 @@ La interfaz, desarrollada en Python, permite a los usuarios configurar parámetr
 
 # Control de Motores Radial-Ulnar y Flexión-Extensión: 
 Cada motor se configura individualmente para ejecutar movimientos de acuerdo con las necesidades de rehabilitación
+  
   Parada de Emergencia: Un botón de emergencia detiene ambos motores inmediatamente en caso de que se necesite detener el dispositivo de forma rápida.
+  
   Retroalimentación en Tiempo Real: La interfaz muestra el ángulo actual del dispositivo, permitiendo al usuario monitorear los movimientos en tiempo real.
+  
   Calibración Manual: Opciones para calibrar manualmente cada motor antes de iniciar las rutinas de rehabilitación, estableciendo posiciones de referencia.
 Archivos en el Repositorio
 
-  interfaz_control.py: Código Python para la interfaz gráfica de usuario, que incluye la configuración de los movimientos y la calibración de los motores.
-  codigoMedio.ino: Código Arduino que recibe comandos desde la interfaz y controla los motores, ejecutando los movimientos programados.
+  InterMedio.py: Código Python para la interfaz gráfica de usuario, que incluye la configuración de los movimientos y la calibración de los motores.
+  
+  CodigoMedio.ino: Código Arduino que recibe comandos desde la interfaz y controla los motores, ejecutando los movimientos programados.
 
   Documentación: Instrucciones detalladas para la instalación, configuración y uso del sistema.
 Requisitos del Sistema
