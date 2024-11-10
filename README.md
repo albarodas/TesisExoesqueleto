@@ -5,10 +5,10 @@ Este repositorio contiene el código y la interfaz gráfica (desarrollada en Pyt
 # Interfaz Gráfica de Usuario (GUI): 
 La interfaz, desarrollada en Python, permite a los usuarios configurar parámetros como el ángulo de movimiento y el número de repeticiones para cada motor.
 
-# Control de Motores Radial-Ulnar y Flexión-Extensión: Cada motor se configura individualmente para ejecutar movimientos de acuerdo con las necesidades de rehabilitación.
-
+# Control de Motores Radial-Ulnar y Flexión-Extensión: 
+Cada motor se configura individualmente para ejecutar movimientos de acuerdo con las necesidades de rehabilitación
   Parada de Emergencia: Un botón de emergencia detiene ambos motores inmediatamente en caso de que se necesite detener el dispositivo de forma rápida.
-Retroalimentación en Tiempo Real: La interfaz muestra el ángulo actual del dispositivo, permitiendo al usuario monitorear los movimientos en tiempo real.
+  Retroalimentación en Tiempo Real: La interfaz muestra el ángulo actual del dispositivo, permitiendo al usuario monitorear los movimientos en tiempo real.
   Calibración Manual: Opciones para calibrar manualmente cada motor antes de iniciar las rutinas de rehabilitación, estableciendo posiciones de referencia.
 Archivos en el Repositorio
 
